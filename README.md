@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project combines manufacturing engineering and data analytics to study the quality of dissimilar resistance spot welding (RSW) between DP590-GA and IF-GA automotive steels.
+This project combines manufacturing engineering and data analytics to study the quality of dissimilar resistance spot welding (RSW) between DP1180-GA and IF-GA automotive steels.
 
 The idea for this project originated during my Summer Internship under Dr. Kanwer Singh Arora, where I worked on Resistance Spot Welding experiments. While analyzing the experimental results, I realized that the collected welding data could be further explored using modern data analytics techniques.
 
