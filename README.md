@@ -28,7 +28,7 @@ The primary objectives of this project are:
 
 ### Base Materials
 
-* DP590-GA (Dual Phase 590 Galvannealed Steel)
+* DP1180-GA (Dual Phase 590 Galvannealed Steel)
 * IF-GA (Interstitial Free Galvannealed Steel)
 
 These steels are widely used in automotive body structures because they provide a balance of strength, formability, and corrosion resistance.
@@ -84,7 +84,7 @@ The dataset consists of welding process parameters and weld quality measurements
 
 ### 1. Data Collection
 
-Experimental welding data was collected from resistance spot welding trials involving DP590-GA and IF-GA steel sheets.
+Experimental welding data was collected from resistance spot welding trials involving DP1180-GA and IF-GA steel sheets.
 
 ### 2. Data Storage
 
