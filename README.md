@@ -1,4 +1,4 @@
-# Data-Driven Quality Analysis of Dissimilar Resistance Spot Welding of DP590-GA and IF-GA Automotive Steels
+# Data-Driven Quality Analysis of Dissimilar Resistance Spot Welding of DP1180-GA and IF-GA Automotive Steels
 
 ## Overview
 
